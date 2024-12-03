@@ -1,0 +1,51 @@
+F:\INFORMATICA\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello_con_prodotti.Form1.resources
+F:\INFORMATICA\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.csproj.GenerateResource.cache
+F:\INFORMATICA\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.GeneratedMSBuildEditorConfig.editorconfig
+F:\INFORMATICA\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.AssemblyInfoInputs.cache
+F:\INFORMATICA\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.AssemblyInfo.cs
+F:\INFORMATICA\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.csproj.CoreCompileInputs.cache
+F:\INFORMATICA\Carrello con prodotti\Carrello con prodotti\bin\Debug\net8.0-windows\Carrello con prodotti.exe
+F:\INFORMATICA\Carrello con prodotti\Carrello con prodotti\bin\Debug\net8.0-windows\Carrello con prodotti.deps.json
+F:\INFORMATICA\Carrello con prodotti\Carrello con prodotti\bin\Debug\net8.0-windows\Carrello con prodotti.runtimeconfig.json
+F:\INFORMATICA\Carrello con prodotti\Carrello con prodotti\bin\Debug\net8.0-windows\Carrello con prodotti.dll
+F:\INFORMATICA\Carrello con prodotti\Carrello con prodotti\bin\Debug\net8.0-windows\Carrello con prodotti.pdb
+F:\INFORMATICA\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.dll
+F:\INFORMATICA\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\refint\Carrello con prodotti.dll
+F:\INFORMATICA\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.pdb
+F:\INFORMATICA\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.genruntimeconfig.cache
+F:\INFORMATICA\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\ref\Carrello con prodotti.dll
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello con prodotti\Carrello con prodotti\bin\Debug\net8.0-windows\Carrello con prodotti.exe
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello con prodotti\Carrello con prodotti\bin\Debug\net8.0-windows\Carrello con prodotti.deps.json
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello con prodotti\Carrello con prodotti\bin\Debug\net8.0-windows\Carrello con prodotti.runtimeconfig.json
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello con prodotti\Carrello con prodotti\bin\Debug\net8.0-windows\Carrello con prodotti.dll
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello con prodotti\Carrello con prodotti\bin\Debug\net8.0-windows\Carrello con prodotti.pdb
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello_con_prodotti.Form1.resources
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.csproj.GenerateResource.cache
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.AssemblyInfoInputs.cache
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.AssemblyInfo.cs
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.csproj.CoreCompileInputs.cache
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.sourcelink.json
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.dll
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\refint\Carrello con prodotti.dll
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.pdb
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.genruntimeconfig.cache
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\ref\Carrello con prodotti.dll
+C:\Users\leohu\OneDrive\Desktop\ESERCIZIO e-Commerce\Carrello\Carrello con prodotti\Carrello con prodotti\bin\Debug\net8.0-windows\Carrello con prodotti.exe
+C:\Users\leohu\OneDrive\Desktop\ESERCIZIO e-Commerce\Carrello\Carrello con prodotti\Carrello con prodotti\bin\Debug\net8.0-windows\Carrello con prodotti.deps.json
+C:\Users\leohu\OneDrive\Desktop\ESERCIZIO e-Commerce\Carrello\Carrello con prodotti\Carrello con prodotti\bin\Debug\net8.0-windows\Carrello con prodotti.runtimeconfig.json
+C:\Users\leohu\OneDrive\Desktop\ESERCIZIO e-Commerce\Carrello\Carrello con prodotti\Carrello con prodotti\bin\Debug\net8.0-windows\Carrello con prodotti.dll
+C:\Users\leohu\OneDrive\Desktop\ESERCIZIO e-Commerce\Carrello\Carrello con prodotti\Carrello con prodotti\bin\Debug\net8.0-windows\Carrello con prodotti.pdb
+C:\Users\leohu\OneDrive\Desktop\ESERCIZIO e-Commerce\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello_con_prodotti.Form1.resources
+C:\Users\leohu\OneDrive\Desktop\ESERCIZIO e-Commerce\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.csproj.GenerateResource.cache
+C:\Users\leohu\OneDrive\Desktop\ESERCIZIO e-Commerce\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leohu\OneDrive\Desktop\ESERCIZIO e-Commerce\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.AssemblyInfoInputs.cache
+C:\Users\leohu\OneDrive\Desktop\ESERCIZIO e-Commerce\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.AssemblyInfo.cs
+C:\Users\leohu\OneDrive\Desktop\ESERCIZIO e-Commerce\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.csproj.CoreCompileInputs.cache
+C:\Users\leohu\OneDrive\Desktop\ESERCIZIO e-Commerce\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.sourcelink.json
+C:\Users\leohu\OneDrive\Desktop\ESERCIZIO e-Commerce\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.dll
+C:\Users\leohu\OneDrive\Desktop\ESERCIZIO e-Commerce\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\refint\Carrello con prodotti.dll
+C:\Users\leohu\OneDrive\Desktop\ESERCIZIO e-Commerce\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.pdb
+C:\Users\leohu\OneDrive\Desktop\ESERCIZIO e-Commerce\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello con prodotti.genruntimeconfig.cache
+C:\Users\leohu\OneDrive\Desktop\ESERCIZIO e-Commerce\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\ref\Carrello con prodotti.dll
+C:\Users\leohu\OneDrive\Desktop\ESERCIZIO e-Commerce\Carrello\Carrello con prodotti\Carrello con prodotti\obj\Debug\net8.0-windows\Carrello_con_prodotti.Properties.Resources.resources
